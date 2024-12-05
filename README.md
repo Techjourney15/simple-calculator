@@ -3,7 +3,7 @@ A Python-based calculator for basic arithmetic operations
 
 # patch-1-update
 
-Here’s the **BLEAT Calculator** with advanced features, extended functionalities, and enhanced operations using modern coding practices. This version integrates exponential operations and adopts advanced Python concepts such as type hints, constants, and a more modular structure.
+- **BLEAT Calculator** integrates advanced features, extended functionalities, and enhanced operations coded using modern coding practices. This version integrates exponential operations and adopts advanced Python concepts such as type hints, constants, and a more modular structure.
 
 ### Key Features of the BLEAT Calculator:
 1. **Modular Design**:
